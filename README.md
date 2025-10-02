@@ -1,5 +1,7 @@
 Github repo: https://github.com/eenpearce/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
 
+PLEASE READ: The repo connected to Udacity is from my secondary account, eengilbert. This is my main account where I completed this project. I did not have an option to connect this account instead when I submitted. It will look as if eengilbert has just forked someone else's project. THIS IS NOT THE CASE. BOTH ACCOUNTS ARE ME.
+
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
 
 # Environment Set up (pip or conda)
